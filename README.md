@@ -30,8 +30,6 @@ This project is fully responsive and suitable for corporate or trading companies
 |-----------|----------|
 | **HTML5** | Structure of the website |
 | **CSS3** | Styling and layout |
-| **Flexbox + Grid** | Page alignment |
-| **Media Queries** | Responsiveness |
 
 
 
