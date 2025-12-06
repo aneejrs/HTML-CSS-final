@@ -6,7 +6,8 @@ This project is fully responsive and suitable for corporate or trading companies
 <img width="1366" height="546" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/c878fe24-198c-4782-92d1-d662cf400efe" />
 <img width="1366" height="528" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/31a00c7b-513c-4614-b8d6-d4c09f4d8153" />
 <img width="1366" height="502" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/4bb23d45-307d-4a6f-9f3e-e41a64c64e72" />
-<img width="1366" height="603" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1f4d0edb-ae43-4e2e-9d65-8d37b3f988bb" />
+<img width="1366" height="534" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/819fa92a-47a3-4596-a13f-768b39b084c2" />
+
 
 
 ## 🚀 Features
